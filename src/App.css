@@ -1,38 +1,16 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+@font-face {
+    font-family: 'Needlework Good Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Needlework Good Regular'), url('./Needlework_Good.woff') format('woff');
+    }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+    h1 {
+        font-family: 'Needlework Good Regular';
+        font-weight: 200;
+        font-size: 15vh;
+        color:rgb(252, 189, 55);
+        text-shadow: 10px 5px 5px black;
+    }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
