@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "/robofriends/static/css/main.d36aadbb.chunk.css",
-    "main.js": "/robofriends/static/js/main.2e237377.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.2e237377.chunk.js.map",
-    "runtime-main.js": "/robofriends/static/js/runtime-main.74eee7b5.js",
-    "runtime-main.js.map": "/robofriends/static/js/runtime-main.74eee7b5.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/robofriends/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.f690e5d6.chunk.js": "/robofriends/static/js/2.f690e5d6.chunk.js",
-    "static/js/2.f690e5d6.chunk.js.map": "/robofriends/static/js/2.f690e5d6.chunk.js.map",
+    "main.css": "/robofriends/static/css/main.577b2e1f.chunk.css",
+    "main.js": "/robofriends/static/js/main.bde35716.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.bde35716.chunk.js.map",
+    "runtime-main.js": "/robofriends/static/js/runtime-main.2df91151.js",
+    "runtime-main.js.map": "/robofriends/static/js/runtime-main.2df91151.js.map",
+    "static/css/2.31461e4f.chunk.css": "/robofriends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.8cf449bd.chunk.js": "/robofriends/static/js/2.8cf449bd.chunk.js",
+    "static/js/2.8cf449bd.chunk.js.map": "/robofriends/static/js/2.8cf449bd.chunk.js.map",
     "index.html": "/robofriends/index.html",
-    "precache-manifest.76ecea77e475a315a20794eae417c97d.js": "/robofriends/precache-manifest.76ecea77e475a315a20794eae417c97d.js",
-    "service-worker.js": "/robofriends/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/robofriends/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.d36aadbb.chunk.css.map": "/robofriends/static/css/main.d36aadbb.chunk.css.map",
-    "static/js/2.f690e5d6.chunk.js.LICENSE.txt": "/robofriends/static/js/2.f690e5d6.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/robofriends/static/media/Needlework_Good.6666aa59.woff"
+    "static/css/2.31461e4f.chunk.css.map": "/robofriends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.577b2e1f.chunk.css.map": "/robofriends/static/css/main.577b2e1f.chunk.css.map",
+    "static/js/2.8cf449bd.chunk.js.LICENSE.txt": "/robofriends/static/js/2.8cf449bd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robofriends/static/media/Needlework_Good.13abf6df.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.74eee7b5.js",
-    "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.f690e5d6.chunk.js",
-    "static/css/main.d36aadbb.chunk.css",
-    "static/js/main.2e237377.chunk.js"
+    "static/js/runtime-main.2df91151.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.8cf449bd.chunk.js",
+    "static/css/main.577b2e1f.chunk.css",
+    "static/js/main.bde35716.chunk.js"
   ]
 }
