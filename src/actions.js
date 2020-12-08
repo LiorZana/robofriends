@@ -17,11 +17,4 @@ export const requestRobots = () => dispatch => {
     .then(data => dispatch({ type: REQUEST_ROBOTS_SUCCESS, payload: data }))
     .catch(error => dispatch({ type: REQUEST_ROBOTS_FAILED, payload: error }))
 
-        // .then(response => {
-        //     return response.json();
-        // })
-        // .then(users => {
-        //     this.setState({ robots: users });
-        // })
-
 }

@@ -30,9 +30,6 @@ class App extends Component {
         this.props.onRequestRobots();
     }
 
-    // onSearchChange = (event) => {
-    //     this.setState({ searchfield: event.target.value });
-    // }
 
     render() {
         const { searchfield, onSearchChange, robots, isPending } = this.props;
